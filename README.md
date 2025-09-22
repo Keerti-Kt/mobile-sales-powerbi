@@ -18,6 +18,10 @@ This Power BI project analyzes online mobile store sales data to surface insight
 - Map visualization for regional analysis
 - Payment method distribution and ratings analysis
 
-## Files
-- `Mobile_Sales_Dashboard.pbix` - dashboard
-- dashboard screenshots: `mobile_sales_dashboard_screenshot.png` , `mobile_sales_dashboard_screenshot.png` , `mobile_sales_dashboard_screenshot2.png`
+### View Full Dashboard
+[Click here to download the PBIX file](https://drive.google.com/file/d/1OJ9dmuzOO475fYsI75xRkZgvNQ0CfWUy/view?usp=drive_link)
+
+## Screenshots of dashboard
+- [dashboard screenshot01](mobile_sales_dashboard_screenshot.png)
+- [dashboard screenshot02](mobile_sales_dashboard_screenshot.png)
+- [dashboard screenshot03](mobile_sales_dashboard_screenshot2.png)
