@@ -22,6 +22,7 @@ This Power BI project analyzes online mobile store sales data to surface insight
 [Click here to download the PBIX file](https://drive.google.com/file/d/1OJ9dmuzOO475fYsI75xRkZgvNQ0CfWUy/view?usp=drive_link)
 
 ## Screenshots of dashboard
-- [dashboard screenshot01](mobile_sales_dashboard_screenshot.png)
-- [dashboard screenshot02](mobile_sales_dashboard_screenshot.png)
-- [dashboard screenshot03](mobile_sales_dashboard_screenshot2.png)
+- [dashboard screenshot01](MobileSales_dashboard_screenshot01.png)
+- [dashboard screenshot02](MobileSales_dashboard_screenshot02.png)
+- [dashboard screenshot03](MobilesSales_dashboard_screenshot03.png)
+- [dashboard screenshot04](MobileSales_dashboard_screenshot04.png)
